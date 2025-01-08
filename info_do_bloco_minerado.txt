@@ -1,0 +1,14 @@
+Hash anterior: 0000000000000000000a1b2c3d4e5f6789abcdef1234567890abcdef12345678 
+
+Transactions: 
+user1 sent 0.00000001 BTC to user2
+user3 sent 0,0004 BTC to user4
+user5 sent 0.9 BTC to user6
+user7 sent 0.5001 BTC to user8
+user9 sent 0.245401 BTC to user10
+user11 sent 2.170001 BTC to user12
+user13 sent 1.15665001 BTC to user14
+ 
+Nonce: 32437218 
+
+Block Hash: 0000000cf6a638f4386ab1a59daddcd01ac2a2dfc2a0f806d51b594911a76831 
